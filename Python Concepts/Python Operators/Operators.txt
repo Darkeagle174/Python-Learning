@@ -1,0 +1,10 @@
+Operators used to perfomr operations on variables & values
+
+Operators are divided into following groups :-
+1) Arithmetic Operators
+2) Assignment Operators
+3) Comparison Operators
+4) Logical Operators
+5) identity Operators
+6) Membership Operators
+7) Bitwise Operators
